@@ -1,0 +1,7 @@
+
+State Machine - |rails|state
+Name state.S_vld state.S_cmp state.S_input state.S_rst 
+state.S_rst 0 0 0 0 
+state.S_input 0 0 1 1 
+state.S_cmp 0 1 0 1 
+state.S_vld 1 0 0 1 
